@@ -1,0 +1,96 @@
+h1{
+    color: green; 
+    font-family: sans-serif;
+} 
+
+p{ 
+    color: coral; 
+    font-family: Arial, Helvetica, sans-serif;
+} 
+ul{ 
+    list-style-image: url('Images/pointer-icon.png');
+} 
+
+ol{ 
+    list-style-type: upper-roman;
+} 
+
+a{ 
+    text-decoration: none; 
+    background-color: aquamarine;
+} 
+
+#menu-bar a{ 
+    font-family: Helvetica, sans-serif;
+    text-decoration: none; 
+    padding: 5px;
+}
+
+#menu-bar a:hover{ 
+    background-color: aqua; 
+    color: #ffffff;
+} 
+
+
+
+#home{
+    background-color:azure;
+}
+table{
+    font-family: italic;
+    border-collapse: collapse;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: black;
+}
+th{
+    font-weight:800;
+}
+h2{
+    color: rebeccapurple;
+    font-family: inherit;
+}
+form{
+    font-family: inherit;
+    color: rebeccapurple;
+}
+h1{
+    padding-left: 200px;
+    color: black;
+}
+p{
+    color: #000000;
+    padding-left: 10px;
+}
+td{
+    background-color: beige;
+}
+img{
+    background-color: beige;
+    padding-left: 40%;
+}
+h4{
+    color:crimson;
+} 
+
+#menu{
+    width:100%;
+    height:40px;
+    background-color: rgb(26, 73, 160);
+    padding-top: 12px;
+}
+
+#menu a{
+    color:#ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    text-decoration:none;
+    font-weight: 800px;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+     color: #041431;
+}
